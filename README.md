@@ -96,8 +96,10 @@ Area : <input type="text" name="area" value="{{area}}"></input>m<sup>2</sup><br/
 ```
 
 ## SERVER SIDE PROCESSING:
-![Alt text](image.png)
+![image](https://github.com/22003197/MathServer/assets/124332243/604a98fa-f262-4294-b2a0-6806c946c35c)
+
 ## HOMEPAGE:
-![Alt text](image-1.png)
+![image](https://github.com/22003197/MathServer/assets/124332243/888b6429-4d98-47f2-a792-ec272f79d075)
+
 ## RESULT:
 The program for performing server side processing is completed successfully.
